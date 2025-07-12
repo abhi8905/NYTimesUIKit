@@ -1,4 +1,4 @@
-# NYTimesUIKit# NYTimesUIKit
+# NYTimesUIKit
 
 **NYTimesUIKit** is a UIKit-based iOS application that consumes New York Times article data using the modular `nytkit` Swift Package. It demonstrates how to architect a clean and scalable UIKit app by isolating core business logic into a reusable SPM component.
 

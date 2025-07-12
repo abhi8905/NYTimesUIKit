@@ -1,0 +1,15 @@
+{
+  "originHash" : "c63e80e07cf7b2355e0ae5c459a6f2598b05b35ae2f03cc39f8004bccba76afe",
+  "pins" : [
+    {
+      "identity" : "nytkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/abhi8905/NYTKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "819203dd89d99c99ada70db0a4ae1be0fab10df3"
+      }
+    }
+  ],
+  "version" : 3
+}
